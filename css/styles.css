@@ -669,6 +669,7 @@ img {
     border-radius: 50%;
     background-color: #FFFFFF;
     cursor: pointer;
+    outline: 1px solid transparent;
 }
 
 
@@ -878,6 +879,11 @@ img {
     letter-spacing: 0.03em;
 
     color: #757575;
+}
+
+
+.deal {
+    margin-left: 5px;
 }
 
 /* Цвет основного текста #757575 */
